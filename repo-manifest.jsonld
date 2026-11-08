@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/mne-tools/mne-rsa/commit/808ff4bbd998895270ae75789008963038cc0267",
       "git:hexsha": "808ff4bbd998895270ae75789008963038cc0267",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/mne-tools/mne-rsa/commit/0d01b140c7c941adff00d8d389dad4570d9bb8ea",
